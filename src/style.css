@@ -1,0 +1,25 @@
+.principal {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.botao-enviar {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.botao-criar {
+    width: 32%;
+}
+
+.botao-sair {
+    margin-top: 120px;
+}
+
+.rodape {
+    margin: auto;
+    width: 20%;
+    padding: 10px;
+}
